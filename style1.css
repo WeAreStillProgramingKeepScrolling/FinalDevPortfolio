@@ -60,8 +60,7 @@ p{
         color: pruple;
     }
 img{
-width: 700px;
-height: 600px;
-border-style: outset;
-border-color:rgb(24, 24, 24)
+width: 20px;
+height: 15px;
+float: right;
 }
